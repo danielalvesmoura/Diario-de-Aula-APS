@@ -2,8 +2,11 @@
 
 Na primeira aula (11/03), fomos introduzidos aos conceitos iniciais da disciplina e da metodologia das aulas. O professor explicou conceitos básicos relacionados ao ciclo de desenvolvimento de software, a diferença entre planejar e executar e a importância de planejar, a diferença entre validação e verificação.
 
-# Verificação: Ver se está correto.
-#Validação: Ver se é o que o cliente precisa.
+# Verificação: 
+Ver se está correto.
+
+# Validação: 
+Ver se é o que o cliente precisa.
 
 A atividade atribuída durante a aula foi a de criar um github para a disciplina.
 
