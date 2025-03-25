@@ -154,9 +154,13 @@ Entrega: 05/04
 Se você errar, é melhor nessa etapa do que nas outras.
 
 ● Problemas: 
+
 	◌ Comunicação é o ponto mais falho da engenharia de software.
+ 
 	◌ Interpretação: Cada um interpreta de um jeito, mesmo entendendo certo.
+ 
 	◌ Cliente não saber o que quer.
+ 
 	◌ Negócio ser difícil e o analista não entender direito
 
 ● Stakeholder: Equipe técnica e o cliente.
@@ -168,11 +172,17 @@ Se você errar, é melhor nessa etapa do que nas outras.
  	◌ Entrevistas: pergunta e resposta guiada. Dinâmico: facil de direcionar a conversa para temas interessantes. Problema: Não dá para fazer com muita gente.
   
   	◌ Etnografia: Vivenciar o que precisa ser feito, observa e conhece. Não é sempre possível se a empresa não permite.
+   
    	◌ Observação: Parecido com a etnografia. Diferenças: é mais limitada. Por exemplo: em áreas de entrada limitada como áreas perigosas ou confidencias de indústrias ou centro cirúrgicos de hospitais.
+    
     	◌ Questionário: Parecido com a entrevista. Diferenças: É mais estático que a entrevista pois não é dinâmico. Bom para clientes com agenda complicada e não participar da entrevista ou para grande quantidade de pessoas.
+     
      	◌ WorkShop: Trabalha em grupo com os StakeHolders. Quando você não tem a menor ideia do que precisa ser feito, buscando uma solução em conjunto com os stakeholders.
+      
       	◌ Joint Aplication Design (Jad): Você tem uma noção do que precisa ser feito. Junto com o cliente, a equipe técnica busca uma solução técnica com o cliente.
-       	◌ Prototipação: Criar uma protótipo conceitual ou prático que serve como uma amostra para a cliente validar o que foi feito. Opções de tipos de prótotipos: Fluxograma, Slides, diagrama de classe, UML, DER. Melhor: Depende do conhecimento do clinete.
+       
+       	◌ Prototipação: Criar uma protótipo conceitual ou prático que serve como uma amostra para a cliente validar o que foi feito. Opções de tipos de prótotipos: Fluxograma, Slides, diagrama de classe, UML, DER.Melhor: Depende do conhecimento do clinete.
+
 	◌ Análise Documental: Todo documento que te ajuda a entender o que precisa ser feito. Opções de documentos para analisar: documentos empresariais.
 
  ● Permissão
