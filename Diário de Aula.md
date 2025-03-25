@@ -22,12 +22,12 @@ Daniel: não acho justo pois o desempenho do aluno depende de fatores inconstant
 	Alternativas podem ser:
 
 Diversas atividades avaliativas menores ao longo de um período.
-# Positivo: Evita o estresse de um único dia e fatores externos de justo no dia.
-# Negativo: Redireciona o foco do aluno para as atividades, prejudicando o aprendizado.
+## Positivo: Evita o estresse de um único dia e fatores externos de justo no dia.
+## Negativo: Redireciona o foco do aluno para as atividades, prejudicando o aprendizado.
 
 Avaliação passiva constante (Aluno sendo avaliado por tudo que acontece durante as aulas, incluindo entrega de atividades sem peso definido, porém, com foco em participação ativa).
-# Positivo: Evita o diluimento do foco do aluno e promove o engajamento.
-# Negativo: Distancia a avaliação de uma metodologia objetiva, dificultando a atribuição de nota.
+## Positivo: Evita o diluimento do foco do aluno e promove o engajamento.
+## Negativo: Distancia a avaliação de uma metodologia objetiva, dificultando a atribuição de nota.
 
 No fim da aula, o professor nos instruiu a avaliar a nós mesmos na planilha de diário de aula.
 
@@ -40,8 +40,9 @@ No fim da aula, o professor nos instruiu a avaliar a nós mesmos na planilha de 
 # 18/03 - Tema: SDLC
 
 Atividade em equipe
-Tema: Projeto de Software
-Buscar fontes confiáveis e referenciar no DA;
+## Tema: 
+Projeto de Software
+## Buscar fontes confiáveis e referenciar no DA;
 Busque pelo menos 3 diferentes exemplos de ciclos de vida de desenvolvimento de software (SDLC);
 Faça a análise dos SDLCs encontradas, verifique as fases e classifique em Estruturação, Execuação e Finalização;
 Cite metodologias ágeis.
@@ -97,28 +98,36 @@ Modelos tradicionais antigos:
 ### Modelagem;
 ### Desenvolvimento;
 	
-## Problemas: Demora demais
+## Problemas
+Demora demais
 ### Entrega e não é o que o cliente pediu;
 #### Comunicação falha;
 #### Documentação errada de requisitos.
 ### É o que o cliente pediu mas não ele não precisa mais.
 
 
-## Incremental: Entre em partes.
+## Incremental
+Entre em partes.
 
-## Problemas: 
+## Problemas 
 ### Os problemas são os mesmos, porém, em menor escala.
 
 
-## Espiral: O cliente participa de todas as fases.
+## Espiral
+O cliente participa de todas as fases.
 
-## Metodologia ágil: Desenvolve de uma forma incremental e iterativa, com entregas significativas constantes.
+## Metodologia ágil
+Desenvolve de uma forma incremental e iterativa, com entregas significativas constantes.
 
 ## Dentro da metodologia ágil, há 4 valores fundamentais e 12 princípios desenvolvido do manifesto ágil em 2001
 
-## Cliente: dar mais valor a interatividade com o cliente do que negociar contrato.
-## Equipe: dar mais valor para a interação entre os membros da equipe do que as ferramentas.
-## Processo: É melhor estar aberto às mudanças do que executar o plano. 
-## Software: Focar em fazer o software funcionar do que em documentar demais.
+## Cliente
+dar mais valor a interatividade com o cliente do que negociar contrato.
+## Equipe
+dar mais valor para a interação entre os membros da equipe do que as ferramentas.
+## Processo
+É melhor estar aberto às mudanças do que executar o plano. 
+## Software
+Focar em fazer o software funcionar do que em documentar demais.
 
 ## Kanban: é uma metodologia japonesa antiga que pode ou não ser considerada uma metodogia ágil.
