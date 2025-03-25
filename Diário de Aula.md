@@ -71,7 +71,7 @@ Teste: Execução
 ```
 
 Existe um SDLC. As fases principais são:
-
+```
 ● Levantamento de dados: entender o que o cliente precisa.
 ● Análise de requisitos: Documentar as necessidades do cliente para o software.
 ● Modelagem do software: Projetar o software
@@ -79,7 +79,7 @@ Existe um SDLC. As fases principais são:
 ● Teste.
 ● Implantação
 ● Manutenção.
-
+```
 ● Exemplo de modelagem
 UML, protetitação de tela, DER.
 
@@ -89,8 +89,6 @@ UML, protetitação de tela, DER.
 ● Manutenção: Continuar a dar apoio ao software para mantê-lo funcionando.
 
 A partir dele, há diversos modelos. Um modelo é um padrão geral que define como o ciclo será realizado.
-
-Modelos tradicionais antigos:
 
 ## Cascata: modelo mais fácil.
 
@@ -159,7 +157,7 @@ Se você errar, é melhor nessa etapa do que nas outras.
 - Negócio ser difícil e o analista não entender direito
 ```
 
-● Stakeholder: Equipe técnica e o cliente.
+## Conceitos
 
 ● Ténicas de levantamento de dados:
 
@@ -194,9 +192,10 @@ Se você errar, é melhor nessa etapa do que nas outras.
 ● Análise Documental: Todo documento que te ajuda a entender o que precisa ser feito.
 Opções de documentos para analisar: documentos empresariais.
 ```
- ● Permissão
- ● Cuidados com a comunicação
- ● Preconceito do analista que atrapalha a o julgamento dos requisitos.
+● Stakeholder: Equipe técnica e o cliente.
+● Permissão
+● Cuidados com a comunicação
+● Preconceito do analista que atrapalha a o julgamento dos requisitos.
 
 
 # Atividade de Pesquisa de Mercado na Prática na Próxima Aula
