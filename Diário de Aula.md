@@ -208,4 +208,4 @@ Opções de documentos para analisar: documentos empresariais.
 ● Preconceito do analista que atrapalha a o julgamento dos requisitos.  
 
 
-# Atividade de Pesquisa de Mercado na Prática na Próxima Aula
+# Atividade de Entrevista Prática na Próxima Aula
