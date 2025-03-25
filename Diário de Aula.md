@@ -140,3 +140,17 @@ Focar em fazer o software funcionar do que em documentar demais.
 
 ## Kanban
 é uma metodologia japonesa antiga que pode ou não ser considerada uma metodogia ágil.
+
+
+# 25/03
+
+## Trabalho do Sábado Letivo
+Entrega: 05/04
+
+## Retomada
+
+SDLC: é a sigla para Ciclo de Vida de Desenvolvimento de Software. É um modelo que descreve as etapas que ocorrem ao decorrer do desenvimento de um Software.
+
+Por que estudar modelos antigos? 
+Principalmente para entender os erros passados.
+Um problema dos modelos antigos era a subjetividade.
