@@ -160,12 +160,11 @@ Interpretação: Cada um interpreta de um jeito, mesmo entendendo certo.
 Cliente não saber o que quer.
  
 Negócio ser difícil e o analista não entender direito
-
+```
 
 ● Stakeholder: Equipe técnica e o cliente.
 
 ● Ténicas de levantamento de dados:
-```
 
 ```
 Pesquisa de mercado: é essencial em qualquer levantamento de dados para entender bem o domínio, a dor do cliente, quais funcionalidade podem se desenvolvidas, custo, se é viável, os aplicativos existentes. Um exemplo de pesquisa de mercado é ir na empresa.
