@@ -35,9 +35,6 @@ No fim da aula, o professor nos instruiu a avaliar a nós mesmos na planilha de 
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 # 18/03 - Tema: SDLC
 
@@ -73,12 +70,6 @@ Análise Req;
 Design;
 Construção;
 Teste.
-
-● Fonte utilizada:
-
-ARORA, Ritika; ARORA, Neha. Analysis of SDLC models. International Journal of Current Engineering and Technology, v. 6, n. 1, p. 268-272, 2016.
-https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=897f5e3f37adfc96fb09d1f72cf81cf65331f588
-
 
 
 Existe um SDLC. As fases principais são:
