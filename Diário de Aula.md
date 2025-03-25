@@ -22,12 +22,16 @@ Daniel: não acho justo pois o desempenho do aluno depende de fatores inconstant
 	Alternativas podem ser:
 
 Diversas atividades avaliativas menores ao longo de um período.
-## Positivo: Evita o estresse de um único dia e fatores externos de justo no dia.
-## Negativo: Redireciona o foco do aluno para as atividades, prejudicando o aprendizado.
+## Positivo
+Evita o estresse de um único dia e fatores externos de justo no dia.
+## Negativo
+Redireciona o foco do aluno para as atividades, prejudicando o aprendizado.
 
 Avaliação passiva constante (Aluno sendo avaliado por tudo que acontece durante as aulas, incluindo entrega de atividades sem peso definido, porém, com foco em participação ativa).
-## Positivo: Evita o diluimento do foco do aluno e promove o engajamento.
-## Negativo: Distancia a avaliação de uma metodologia objetiva, dificultando a atribuição de nota.
+## Positivo
+Evita o diluimento do foco do aluno e promove o engajamento.
+## Negativo
+Distancia a avaliação de uma metodologia objetiva, dificultando a atribuição de nota.
 
 No fim da aula, o professor nos instruiu a avaliar a nós mesmos na planilha de diário de aula.
 
@@ -49,26 +53,32 @@ Cite metodologias ágeis.
 
 Pesquisei sobre o modelo ágil:
 
-## Modelo Ágil: Um modelo onde diferentes fases do projeto podem acontecer em paralelo. O desenvolvimento é dividido em interações com as mesmas fases.
+## Modelo Ágil
+Um modelo onde diferentes fases do projeto podem acontecer em paralelo. O desenvolvimento é dividido em interações com as mesmas fases.
 
 Fases incluem: 
 
-## Planejamento: Estruturação
-## Análise Req: Estruturação
-## Design: Estruturação
-## Construção: Execução
-## Teste: Execução
+## Planejamento
+Estruturação
+## Análise Req
+Estruturação
+## Design
+Estruturação
+## Construção
+Execução
+## Teste
+Execução
 
 
 ## Modelo Ágil: Um modelo onde diferentes fases do projeto podem acontecer em paralelo.
 
 Fases incluem: 
 
-## Planejamento;
-## Análise Req;
-## Design;
-## Construção;
-## Teste.
+Planejamento;
+Análise Req;
+Design;
+Construção;
+Teste.
 
 ## Fonte utilizada:
 
@@ -79,14 +89,22 @@ https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=897f5e3f37adfc96f
 
 Existe um SDLC. As fases principais são:
 
-## Levantamento de dados: entender o que o cliente precisa.
-## Análise de requisitos: Documentar as necessidades do cliente para o software.
-## Modelagem do software: Projetar o software
-Exemplo de modelagem: UML, protetitação de tela, DER.
-## Codifição/Implementação: Colocar a mão na massa e trazer a funcionalidade para realidade.
-## Teste: Testar as funcionalidades antes de entregar.
-## Implantação: Adicionar a funcionalidade ao software.
-## Manutenção: Continuar a dar apoio ao software para mantê-lo funcionando.
+## Levantamento de dados
+entender o que o cliente precisa.
+## Análise de requisitos
+Documentar as necessidades do cliente para o software.
+## Modelagem do software
+Projetar o software
+Exemplo de modelagem
+UML, protetitação de tela, DER.
+## Codifição/Implementação
+Colocar a mão na massa e trazer a funcionalidade para realidade.
+## Teste
+Testar as funcionalidades antes de entregar.
+## Implantação
+Adicionar a funcionalidade ao software.
+## Manutenção
+Continuar a dar apoio ao software para mantê-lo funcionando.
 
 A partir dele, há diversos modelos. Um modelo é um padrão geral que define como o ciclo será realizado.
 
@@ -100,17 +118,17 @@ Modelos tradicionais antigos:
 	
 ## Problemas
 Demora demais
-### Entrega e não é o que o cliente pediu;
-#### Comunicação falha;
-#### Documentação errada de requisitos.
-### É o que o cliente pediu mas não ele não precisa mais.
+Entrega e não é o que o cliente pediu;
+Comunicação falha;
+Documentação errada de requisitos.
+É o que o cliente pediu mas não ele não precisa mais.
 
 
 ## Incremental
 Entre em partes.
 
 ## Problemas 
-### Os problemas são os mesmos, porém, em menor escala.
+Os problemas são os mesmos, porém, em menor escala.
 
 
 ## Espiral
