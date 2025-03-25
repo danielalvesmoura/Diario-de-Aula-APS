@@ -193,8 +193,11 @@ Se você errar, é melhor nessa etapa do que nas outras.
 Opções de documentos para analisar: documentos empresariais.
 ```
 ● Stakeholder: Equipe técnica e o cliente.
+
 ● Permissão
+
 ● Cuidados com a comunicação
+
 ● Preconceito do analista que atrapalha a o julgamento dos requisitos.
 
 
