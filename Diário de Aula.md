@@ -10,8 +10,6 @@ Ver se é o que o cliente precisa.
 
 A atividade atribuída durante a aula foi a de criar um github para a disciplina.
 
-# GitHub: https://github.com/danielalvesmoura
-
 O professor passou a instrução de formar uma equipe de 4 pessoas e discutir algumas questões de reflexão.
 
 A seguir, estão minhas respostas: 
@@ -22,7 +20,7 @@ Daniel: não acho justo pois o desempenho do aluno depende de fatores inconstant
 	Alternativas podem ser:
 
 Diversas atividades avaliativas menores ao longo de um período.
-## Positivo
+⬤ Positivo
 Evita o estresse de um único dia e fatores externos de justo no dia.
 ## Negativo
 Redireciona o foco do aluno para as atividades, prejudicando o aprendizado.
