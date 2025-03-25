@@ -96,7 +96,7 @@ Modelos tradicionais antigos:
 ## Cascata: modelo mais fácil.
 
 ```
-● Definido por:
+Definido por:
 ● Levantamento de requisitos;
 ● Análise de requisitos;
 ● Modelagem;
