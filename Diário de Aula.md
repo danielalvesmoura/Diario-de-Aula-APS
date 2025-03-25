@@ -2,11 +2,13 @@
 
 Na primeira aula (11/03), fomos introduzidos aos conceitos iniciais da disciplina e da metodologia das aulas. O professor explicou conceitos básicos relacionados ao ciclo de desenvolvimento de software, a diferença entre planejar e executar e a importância de planejar, a diferença entre validação e verificação.
 
+```
 ● Verificação: 
 Ver se está correto.
 
 ● Validação: 
 Ver se é o que o cliente precisa.
+```
 
 A atividade atribuída durante a aula foi a de criar um github para a disciplina.
 
@@ -14,6 +16,7 @@ O professor passou a instrução de formar uma equipe de 4 pessoas e discutir al
 
 A seguir, estão minhas respostas: 
 
+```
 1. A avaliação tem o objetivo de medir o desempenho dos alunos. Você acha que é justo avaliar todo o aprendizado de um aluno em um único dia? Por quê? Quais poderiam ser alternativas mais eficazes?
 
 Não acho justo pois o desempenho do aluno depende de fatores inconstantes como o humor do aluno, tempo prévio, estresse causado por eventos externos. Além disso, uma avaliação concentrada em um único dia gera ansiedade, que também prejudica o desempenho do aluno. 
@@ -34,6 +37,7 @@ Evita o diluimento do foco do aluno e promove o engajamento.
 
 ● Negativo
 Distancia a avaliação de uma metodologia objetiva, dificultando a atribuição de nota.
+```
 
 No fim da aula, o professor nos instruiu a avaliar a nós mesmos na planilha de diário de aula.
 
