@@ -2,10 +2,10 @@
 
 Na primeira aula (11/03), fomos introduzidos aos conceitos iniciais da disciplina e da metodologia das aulas. O professor explicou conceitos básicos relacionados ao ciclo de desenvolvimento de software, a diferença entre planejar e executar e a importância de planejar, a diferença entre validação e verificação.
 
-⬤ Verificação: 
+● Verificação: 
 Ver se está correto.
 
-# Validação: 
+● Validação: 
 Ver se é o que o cliente precisa.
 
 A atividade atribuída durante a aula foi a de criar um github para a disciplina.
@@ -20,15 +20,15 @@ Daniel: não acho justo pois o desempenho do aluno depende de fatores inconstant
 	Alternativas podem ser:
 
 Diversas atividades avaliativas menores ao longo de um período.
-⬤ Positivo
+● Positivo
 Evita o estresse de um único dia e fatores externos de justo no dia.
-## Negativo
+● Negativo
 Redireciona o foco do aluno para as atividades, prejudicando o aprendizado.
 
 Avaliação passiva constante (Aluno sendo avaliado por tudo que acontece durante as aulas, incluindo entrega de atividades sem peso definido, porém, com foco em participação ativa).
-## Positivo
+● Positivo
 Evita o diluimento do foco do aluno e promove o engajamento.
-## Negativo
+● Negativo
 Distancia a avaliação de uma metodologia objetiva, dificultando a atribuição de nota.
 
 No fim da aula, o professor nos instruiu a avaliar a nós mesmos na planilha de diário de aula.
@@ -42,19 +42,19 @@ No fim da aula, o professor nos instruiu a avaliar a nós mesmos na planilha de 
 # 18/03 - Tema: SDLC
 
 Atividade em equipe
-## Tema: 
+● Tema: 
 Projeto de Software
-## Buscar fontes confiáveis e referenciar no DA;
+● Buscar fontes confiáveis e referenciar no DA;
 Busque pelo menos 3 diferentes exemplos de ciclos de vida de desenvolvimento de software (SDLC);
 Faça a análise dos SDLCs encontradas, verifique as fases e classifique em Estruturação, Execuação e Finalização;
 Cite metodologias ágeis.
 
 Pesquisei sobre o modelo ágil:
 
-## Modelo Ágil
+● Modelo Ágil
 Um modelo onde diferentes fases do projeto podem acontecer em paralelo. O desenvolvimento é dividido em interações com as mesmas fases.
 
-## Fases incluem: 
+● Fases incluem: 
 
 Planejamento: Estruturação
 Análise Req: Estruturação
@@ -63,7 +63,7 @@ Construção: Execução
 Teste: Execução
 
 
-## Modelo Ágil
+● Modelo Ágil
 Um modelo onde diferentes fases do projeto podem acontecer em paralelo.
 
 Fases incluem: 
@@ -74,7 +74,7 @@ Design;
 Construção;
 Teste.
 
-## Fonte utilizada:
+● Fonte utilizada:
 
 ARORA, Ritika; ARORA, Neha. Analysis of SDLC models. International Journal of Current Engineering and Technology, v. 6, n. 1, p. 268-272, 2016.
 https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=897f5e3f37adfc96fb09d1f72cf81cf65331f588
@@ -99,24 +99,24 @@ A partir dele, há diversos modelos. Um modelo é um padrão geral que define co
 Modelos tradicionais antigos:
 
 ## Cascata: modelo mais fácil. 
-Definido por:
-Levantamento de requisitos;
-Análise de requisitos;
-Modelagem;
-Desenvolvimento;
+● Definido por:
+● Levantamento de requisitos;
+● Análise de requisitos;
+● Modelagem;
+● Desenvolvimento;
 	
 ## Problemas
-Demora demais
-Entrega e não é o que o cliente pediu;
-Comunicação falha;
-Documentação errada de requisitos.
-É o que o cliente pediu mas não ele não precisa mais.
+● Demora demais;
+● Entrega e não é o que o cliente pediu;
+● Comunicação falha;
+● Documentação errada de requisitos.
+● É o que o cliente pediu mas não ele não precisa mais.
 
 
 ## Incremental
 Entre em partes.
 
-Problema: Os problemas são os mesmos, porém, em menor escala.
+● Problema: Os problemas são os mesmos, porém, em menor escala.
 
 
 ## Espiral
@@ -127,16 +127,16 @@ Desenvolve de uma forma incremental e iterativa, com entregas significativas con
 
 Dentro da metodologia ágil, há 4 valores fundamentais e 12 princípios desenvolvido do manifesto ágil em 2001.
 
-## Cliente
+● Cliente
 dar mais valor a interatividade com o cliente do que negociar contrato.
-## Equipe
+● Equipe
 dar mais valor para a interação entre os membros da equipe do que as ferramentas.
-## Processo
+● Processo
 É melhor estar aberto às mudanças do que executar o plano. 
-## Software
+● Software
 Focar em fazer o software funcionar do que em documentar demais.
 
-## Kanban
+● Kanban
 é uma metodologia japonesa antiga que pode ou não ser considerada uma metodogia ágil.
 
 
@@ -147,8 +147,8 @@ Entrega: 05/04
 
 ## Retomada
 
-SDLC: é a sigla para Ciclo de Vida de Desenvolvimento de Software. É um modelo que descreve as etapas que ocorrem ao decorrer do desenvimento de um Software.
+● SDLC: é a sigla para Ciclo de Vida de Desenvolvimento de Software. É um modelo que descreve as etapas que ocorrem ao decorrer do desenvimento de um Software.
 
-Por que estudar modelos antigos? 
+● Por que estudar modelos antigos? 
 Principalmente para entender os erros passados.
 Um problema dos modelos antigos era a subjetividade.
