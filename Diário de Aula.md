@@ -162,8 +162,11 @@ Se você errar, é melhor nessa etapa do que nas outras.
 ● Stakeholder: Equipe técnica e o cliente.
 
 ● Ténicas de levantamento de dados:
+
 	◌ Pesquisa de mercado: é essencial em qualquer levantamento de dados para entender bem o domínio, a dor do cliente, quais funcionalidade podem se desenvolvidas, custo, se é viável, os aplicativos existentes. Um exemplo de pesquisa de mercado é ir na empresa.
+ 
  	◌ Entrevistas: pergunta e resposta guiada. Dinâmico: facil de direcionar a conversa para temas interessantes. Problema: Não dá para fazer com muita gente.
+  
   	◌ Etnografia: Vivenciar o que precisa ser feito, observa e conhece. Não é sempre possível se a empresa não permite.
    	◌ Observação: Parecido com a etnografia. Diferenças: é mais limitada. Por exemplo: em áreas de entrada limitada como áreas perigosas ou confidencias de indústrias ou centro cirúrgicos de hospitais.
     	◌ Questionário: Parecido com a entrevista. Diferenças: É mais estático que a entrevista pois não é dinâmico. Bom para clientes com agenda complicada e não participar da entrevista ou para grande quantidade de pessoas.
