@@ -56,21 +56,17 @@ Pesquisei sobre o modelo ágil:
 ## Modelo Ágil
 Um modelo onde diferentes fases do projeto podem acontecer em paralelo. O desenvolvimento é dividido em interações com as mesmas fases.
 
-Fases incluem: 
+## Fases incluem: 
 
-## Planejamento
-Estruturação
-## Análise Req
-Estruturação
-## Design
-Estruturação
-## Construção
-Execução
-## Teste
-Execução
+Planejamento: Estruturação
+Análise Req: Estruturação
+Design: Estruturação
+Construção: Execução
+Teste: Execução
 
 
-## Modelo Ágil: Um modelo onde diferentes fases do projeto podem acontecer em paralelo.
+## Modelo Ágil
+Um modelo onde diferentes fases do projeto podem acontecer em paralelo.
 
 Fases incluem: 
 
@@ -89,32 +85,27 @@ https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=897f5e3f37adfc96f
 
 Existe um SDLC. As fases principais são:
 
-## Levantamento de dados
-entender o que o cliente precisa.
-## Análise de requisitos
-Documentar as necessidades do cliente para o software.
-## Modelagem do software
-Projetar o software
+Levantamento de dados: entender o que o cliente precisa.
+Análise de requisitos: Documentar as necessidades do cliente para o software.
+Modelagem do software: Projetar o software
 Exemplo de modelagem
 UML, protetitação de tela, DER.
-## Codifição/Implementação
-Colocar a mão na massa e trazer a funcionalidade para realidade.
-## Teste
-Testar as funcionalidades antes de entregar.
-## Implantação
-Adicionar a funcionalidade ao software.
-## Manutenção
-Continuar a dar apoio ao software para mantê-lo funcionando.
+
+Codifição/Implementação: Colocar a mão na massa e trazer a funcionalidade para realidade.
+Teste: Testar as funcionalidades antes de entregar.
+Implantação: Adicionar a funcionalidade ao software.
+Manutenção: Continuar a dar apoio ao software para mantê-lo funcionando.
 
 A partir dele, há diversos modelos. Um modelo é um padrão geral que define como o ciclo será realizado.
 
 Modelos tradicionais antigos:
 
 ## Cascata: modelo mais fácil. 
-### Levantamento de requisitos;
-### Análise de requisitos;
-### Modelagem;
-### Desenvolvimento;
+Definido por:
+Levantamento de requisitos;
+Análise de requisitos;
+Modelagem;
+Desenvolvimento;
 	
 ## Problemas
 Demora demais
@@ -127,8 +118,7 @@ Documentação errada de requisitos.
 ## Incremental
 Entre em partes.
 
-## Problemas 
-Os problemas são os mesmos, porém, em menor escala.
+Problema: Os problemas são os mesmos, porém, em menor escala.
 
 
 ## Espiral
@@ -137,7 +127,7 @@ O cliente participa de todas as fases.
 ## Metodologia ágil
 Desenvolve de uma forma incremental e iterativa, com entregas significativas constantes.
 
-## Dentro da metodologia ágil, há 4 valores fundamentais e 12 princípios desenvolvido do manifesto ágil em 2001
+Dentro da metodologia ágil, há 4 valores fundamentais e 12 princípios desenvolvido do manifesto ágil em 2001.
 
 ## Cliente
 dar mais valor a interatividade com o cliente do que negociar contrato.
@@ -148,4 +138,5 @@ dar mais valor para a interação entre os membros da equipe do que as ferrament
 ## Software
 Focar em fazer o software funcionar do que em documentar demais.
 
-## Kanban: é uma metodologia japonesa antiga que pode ou não ser considerada uma metodogia ágil.
+## Kanban
+é uma metodologia japonesa antiga que pode ou não ser considerada uma metodogia ágil.
