@@ -57,6 +57,7 @@ Atividade em equipe. Tema: Projeto de Software
 
 Pesquisei sobre o modelo ágil:
 
+```
 ● Modelo Ágil
 Um modelo onde diferentes fases do projeto podem acontecer em paralelo. O desenvolvimento é dividido em interações com as mesmas fases.
 
@@ -67,25 +68,17 @@ Análise Req: Estruturação
 Design: Estruturação
 Construção: Execução
 Teste: Execução
-
-
-● Modelo Ágil
-Um modelo onde diferentes fases do projeto podem acontecer em paralelo.
-
-Fases incluem: 
-
-● Planejamento;
-● Análise Req;
-● Design;
-● Construção;
-● Teste.
-
+```
 
 Existe um SDLC. As fases principais são:
 
 ● Levantamento de dados: entender o que o cliente precisa.
 ● Análise de requisitos: Documentar as necessidades do cliente para o software.
 ● Modelagem do software: Projetar o software
+● Codificação e Implementação.
+● Teste.
+● Implantação
+● Manutenção.
 
 ● Exemplo de modelagem
 UML, protetitação de tela, DER.
@@ -129,11 +122,12 @@ O cliente participa de todas as fases.
 Desenvolve de uma forma incremental e iterativa, com entregas significativas constantes.
 
 ● Dentro da metodologia ágil, há 4 valores fundamentais e 12 princípios desenvolvido do manifesto ágil em 2001.
-
+```
 Cliente: dar mais valor a interatividade com o cliente do que negociar contrato.
 Equipe: dar mais valor para a interação entre os membros da equipe do que as ferramentas.
 Processo: É melhor estar aberto às mudanças do que executar o plano. 
 Software: Focar em fazer o software funcionar do que em documentar demais.
+```
 
 ● Kanban
 é uma metodologia japonesa antiga que pode ou não ser considerada uma metodogia ágil.
