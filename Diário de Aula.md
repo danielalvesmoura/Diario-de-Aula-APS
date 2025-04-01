@@ -1,5 +1,5 @@
 
-# 18/03
+** 18/03 **
 
 Na primeira aula (11/03), fomos introduzidos aos conceitos iniciais da disciplina e da metodologia das aulas. O professor explicou conceitos básicos relacionados ao ciclo de desenvolvimento de software, a diferença entre planejar e executar e a importância de planejar, a diferença entre validação e verificação.
 
