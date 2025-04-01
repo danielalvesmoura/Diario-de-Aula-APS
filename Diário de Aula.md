@@ -1,11 +1,10 @@
 
-** 18/03 **
+## 18/03
 
 Na primeira aula (11/03), fomos introduzidos aos conceitos iniciais da disciplina e da metodologia das aulas. O professor explicou conceitos básicos relacionados ao ciclo de desenvolvimento de software, a diferença entre planejar e executar e a importância de planejar, a diferença entre validação e verificação.
 
 ```
-● Verificação: 
-Ver se está correto.
+● Verificação: Ver se está correto.
 
 ● Validação: 
 Ver se é o que o cliente precisa.
@@ -18,9 +17,13 @@ O professor passou a instrução de formar uma equipe de 4 pessoas e discutir al
 A seguir, estão minhas respostas: 
 
 ```
-1. A avaliação tem o objetivo de medir o desempenho dos alunos. Você acha que é justo avaliar todo o aprendizado de um aluno em um único dia? Por quê? Quais poderiam ser alternativas mais eficazes?
+1. A avaliação tem o objetivo de medir o desempenho dos alunos.
+Você acha que é justo avaliar todo o aprendizado de um aluno em um único dia?
+Por quê? Quais poderiam ser alternativas mais eficazes?
 
-Não acho justo pois o desempenho do aluno depende de fatores inconstantes como o humor do aluno, tempo prévio, estresse causado por eventos externos. Além disso, uma avaliação concentrada em um único dia gera ansiedade, que também prejudica o desempenho do aluno. 
+Não acho justo pois o desempenho do aluno depende de fatores inconstantes como o humor do aluno,
+tempo prévio, estresse causado por eventos externos.
+Além disso, uma avaliação concentrada em um único dia gera ansiedade, que também prejudica o desempenho do aluno. 
 	Alternativas podem ser:
 
 Diversas atividades avaliativas menores ao longo de um período.
@@ -31,7 +34,8 @@ Evita o estresse de um único dia e fatores externos de justo no dia.
 ● Negativo
 Redireciona o foco do aluno para as atividades, prejudicando o aprendizado.
 
-Avaliação passiva constante (Aluno sendo avaliado por tudo que acontece durante as aulas, incluindo entrega de atividades sem peso definido, porém, com foco em participação ativa).
+Avaliação passiva constante (Aluno sendo avaliado por tudo que acontece durante as aulas,
+incluindo entrega de atividades sem peso definido, porém, com foco em participação ativa).
 
 ● Positivo
 Evita o diluimento do foco do aluno e promove o engajamento.
@@ -45,9 +49,8 @@ No fim da aula, o professor nos instruiu a avaliar a nós mesmos na planilha de 
 
 
 
-# 18/03 - Tema: SDLC
 
-Atividade em equipe. Tema: Projeto de Software
+## Atividade em equipe. Tema: Projeto de Software
 
 ● Buscar fontes confiáveis e referenciar no DA;
 ● Busque pelo menos 3 diferentes exemplos de ciclos de vida de desenvolvimento de software (SDLC);
@@ -68,6 +71,10 @@ Design: Estruturação
 Construção: Execução
 Teste: Execução
 ```
+
+
+
+# Conteúdo
 
 Existe um SDLC. As fases principais são:
 ```
